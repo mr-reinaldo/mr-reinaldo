@@ -17,8 +17,8 @@
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
-![](https://img.shields.io/badge/Intel-Core_i3_7th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-
+![](https://img.shields.io/badge/Acer-Aspire_3-04B431?style=for-the-badge&logo=Acer&logoColor=white)
+![](https://img.shields.io/badge/Intel-Core_i3_7th-58D3F7?style=for-the-badge&logo=intel&logoColor=white)
 
 ## My activities
 
