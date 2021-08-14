@@ -17,12 +17,10 @@
 
 ## My activities
 
-<a href="https://github.com/mr-reinaldo/github-readme-stats">
-  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=mr-reinaldo&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
-</a>
-<a href="https://github.com/mr-reinaldo/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-reinaldo&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
-</a>
+![Reinaldo Silva's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-reinaldo&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-reinaldo&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 ##
