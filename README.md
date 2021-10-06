@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=3DF77F&center=true&vCenter=true&lines=Welcome+to+Reinaldo+Silva+profile!)](https://git.io/typing-svg)
-
 <p align="center">
  <h2 align="center">About Me</h2>
 </p>
