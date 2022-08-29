@@ -15,7 +15,7 @@ Desde criança almejava ter meu primeiro computador, batalhei bastante até este
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![ShellScript](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://aurelio.net/shell/)
-[![Posh](https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white)]()
+[![Posh](https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white)](https://docs.microsoft.com/pt-br/powershell/scripting/overview?view=powershell-7.2)
 
 #### IDE
 [![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
@@ -26,8 +26,8 @@ Desde criança almejava ter meu primeiro computador, batalhei bastante até este
 [![PowerShell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://docs.microsoft.com/pt-br/powershell/scripting/overview?view=powershell-7.2)
 
 # Workspace Specs
-[![Acer](https://img.shields.io/badge/Acer-Aspire_3-76B900?style=for-the-badge&logo=Acer&logoColor=white)]()
-[![Intel](https://img.shields.io/badge/Intel-CORE_I3_7TH-0071C5?style=for-the-badge&logo=Intel&logoColor=white)]()
+[![Acer](https://img.shields.io/badge/Acer-Aspire_3-76B900?style=for-the-badge&logo=Acer&logoColor=white)](https://melhoresnotebooks.com.br/acer-_a315-53-343y-ssd/)
+[![Intel](https://img.shields.io/badge/Intel-CORE_I3_7TH-0071C5?style=for-the-badge&logo=Intel&logoColor=white)](https://www.intel.com.br/content/www/br/pt/products/sku/122590/intel-core-i37020u-processor-3m-cache-2-30-ghz/specifications.html)
 
 # Stats
 
