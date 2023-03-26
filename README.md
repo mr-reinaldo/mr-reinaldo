@@ -1,19 +1,21 @@
-# Olá, me chamo Reinaldo.
-
-Estudante de Redes de Computadores, procurando oportunidades para aprender e evoluir na área de TI.
-
-## Educação
-- Curso Tecnólogo em Redes de Computadores - IFPB (Cursando)
-
-## Habilidades
-- Programação em Python e Shell Script.
-- Conhecimento básico em PowerShell.
-- Conhecimento em Redes de Computadores (CISCO).
-
-## Interesses
-- Aprendizado de novas tecnologias e linguagens de programação
-- Desenvolvimento de soluções automatizadas com scripts em Python e PowerShell
+## 💫 Sobre mim:
+🔭 Estudante de Redes de Computadores, procurando oportunidades para aprender e evoluir na área de TI.
 
 
-## Contato
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reinaldo-silva-4b3938222/)
+### 🌐 Redes Sociais:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jreinaldosilva) 
+
+### 💻 Tecnologias:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 📊 Estatísticas do GitHub:
+![](https://github-readme-stats.vercel.app/api?username=mr-reinaldo&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-reinaldo&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 Troféus do GitHub:
+![](https://github-profile-trophy.vercel.app/?username=mr-reinaldo&theme=nord&no-frame=false&no-bg=false&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=mr-reinaldo&icon=0&color=8)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
