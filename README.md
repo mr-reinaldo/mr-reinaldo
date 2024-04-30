@@ -1,21 +1,36 @@
-## 💫 Sobre mim:
-🔭 Estudante de Redes de Computadores, procurando oportunidades para aprender e evoluir na área de TI.
+<img align="right" height="390em" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/octocat/spidertocat.png"/>
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou Reinaldo</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-reinaldo&color=green" alt="Profile views" /> </p>
 
+- 🔥 Tecnólogo em Redes de Computadores - IFPB
 
-### 🌐 Redes Sociais:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jreinaldosilva) 
+- 🔭 Procurando oportunidades para evoluir na área de TI.
 
-### 💻 Tecnologias:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<br><br>
 
-### 📊 Estatísticas do GitHub:
-![](https://github-readme-stats.vercel.app/api?username=mr-reinaldo&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&locale=pt-BR)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-reinaldo&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&locale=pt-BR)
+## 🛠 &nbsp;Tecnologias
 
-## 🏆 Troféus do GitHub:
-![](https://github-profile-trophy.vercel.app/?username=mr-reinaldo&theme=nord&no-frame=false&no-bg=false&margin-w=4)
+![Python](https://img.shields.io/badge/python-2C2C2C?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;![FastAPI](https://img.shields.io/badge/fastapi-2C2C2C?style=for-the-badge&logo=fastapi&logoColor=ffdd54)&nbsp;![Linux](https://img.shields.io/badge/linux-2C2C2C?style=for-the-badge&logo=linux&logoColor=white)&nbsp;![Windows](https://img.shields.io/badge/windows-2C2C2C?style=for-the-badge&logo=windows&logoColor=blue)&nbsp;![Vscode](https://img.shields.io/badge/vscode-2C2C2C?style=for-the-badge&logo=visual-studio-code&logoColor=blue)&nbsp;
+![Docker](https://img.shields.io/badge/docker-2C2C2C?style=for-the-badge&logo=docker&logoColor=blue)&nbsp;![Vagrant](https://img.shields.io/badge/vagrant-2C2C2C?style=for-the-badge&logo=vagrant&logoColor=blue)&nbsp;![Bootstrap](https://img.shields.io/badge/bootstrap-2C2C2C?style=for-the-badge&logo=bootstrap&logoColor=purple)&nbsp;![Vue.js](https://img.shields.io/badge/vue-2C2C2C?style=for-the-badge&logo=vue.js&logoColor=green)&nbsp;![Vuetify](https://img.shields.io/badge/vuetify-2C2C2C?style=for-the-badge&logo=vuetify&logoColor=blue)&nbsp;
 
----
-[![](https://visitcount.itsvg.in/api?id=mr-reinaldo&icon=0&color=8)](https://visitcount.itsvg.in)
+<br><br>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=mr-reinaldo&show_icons=true&theme=vision-friendly-dark" alt="mr-reinaldo stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-reinaldo&layout=compact&theme=vision-friendly-dark" alt="mr-reinaldo most languages"/>
+</p>
+
+<br><br>
+
+## Contatos
+
+<p align="left">
+<a href="www.linkedin.com/in/jreinaldosilva" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-reinaldosilva-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://instagram.com/penguin.bash_" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-penguin.bash-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+</p>
