@@ -27,7 +27,7 @@
 ## Contatos
 
 <p align="left">
-<a href="www.linkedin.com/in/jreinaldosilva" target="_blank">
+<a href="https://www.linkedin.com/in/jreinaldosilva" target="_blank">
   <img align="center" src="https://img.shields.io/badge/reinaldosilva-2C2C2C?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/penguin.bash_" target="_blank">
