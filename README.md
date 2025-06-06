@@ -73,7 +73,7 @@
 
 ###
 
-<h3 align="left">Estatística</h3>
+<h3 align="left">Estatísticas</h3>
 
 ###
 
