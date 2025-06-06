@@ -1,36 +1,96 @@
-<img align="right" height="390em" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/octocat/spidertocat.png"/>
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou Reinaldo</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-reinaldo&color=green" alt="Profile views" /> </p>
+<h2 align="center">Olá 👋, eu sou Reinaldo!</h2>
 
-- 🔥 Tecnólogo em Redes de Computadores - IFPB
+###
 
-- 🔭 Procurando oportunidades para evoluir na área de TI.
+<br clear="both">
 
-<br><br>
+<div align="center">
+  <img height="220" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2wxODNvMmJzeDhydWEybHM2NnltOHVtb3l0ZWo3c3ZwYWNlNGRnbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5dLoIhuX12Nl1MnQJ1/giphy.gif"  />
+</div>
 
-## 🛠 &nbsp;Tecnologias
+###
 
-![Python](https://img.shields.io/badge/python-2C2C2C?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;![FastAPI](https://img.shields.io/badge/fastapi-2C2C2C?style=for-the-badge&logo=fastapi&logoColor=ffdd54)&nbsp;![Linux](https://img.shields.io/badge/linux-2C2C2C?style=for-the-badge&logo=linux&logoColor=white)&nbsp;
-![Windows](https://img.shields.io/badge/windows-2C2C2C?style=for-the-badge&logo=windows&logoColor=blue)&nbsp;![Vscode](https://img.shields.io/badge/vscode-2C2C2C?style=for-the-badge&logo=visual-studio-code&logoColor=blue)&nbsp;
-![Docker](https://img.shields.io/badge/docker-2C2C2C?style=for-the-badge&logo=docker&logoColor=blue)&nbsp;![Vagrant](https://img.shields.io/badge/vagrant-2C2C2C?style=for-the-badge&logo=vagrant&logoColor=blue)&nbsp;![Bootstrap](https://img.shields.io/badge/bootstrap-2C2C2C?style=for-the-badge&logo=bootstrap&logoColor=purple)&nbsp;![Vue.js](https://img.shields.io/badge/vue-2C2C2C?style=for-the-badge&logo=vue.js&logoColor=green)&nbsp;![Vuetify](https://img.shields.io/badge/vuetify-2C2C2C?style=for-the-badge&logo=vuetify&logoColor=blue)&nbsp;
+<br clear="both">
 
-<br><br>
+<p align="center">Sou graduado em Tecnologia em Redes de Computadores pelo Instituto Federal da Paraíba (IFPB), com conclusão em 2023. Desde cedo, desenvolvi uma paixão por tecnologia, que naturalmente se transformou em vocação na área da Tecnologia da Informação (TI). Mesmo após a formação acadêmica, mantenho um ritmo constante de evolução por meio de estudos autodidatas e projetos práticos.<br><br>Estou em busca de oportunidades que me permitam aplicar meus conhecimentos técnicos e minha habilidade em resolver problemas complexos com inteligência, segurança e criatividade.<br><br>🔭 Atualmente estou cursando Sistemas de Telecomunicações<br>🌱 Atualmente estou aprimorando meu conhecimentos em Python, Automação e FastAPI.<br>❓ Pergunte-me sobre qualquer coisa relacionada à Python e Redes de Computadores.</p>
 
-## ⚙️ &nbsp;GitHub Analytics
-<p align="left">
-<img width="430em" src="https://github-readme-stats.vercel.app/api?username=mr-reinaldo&show_icons=true&theme=vision-friendly-dark" alt="mr-reinaldo stats"/>
-<img width="328em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-reinaldo&layout=compact&theme=vision-friendly-dark" alt="mr-reinaldo most languages"/>
-</p>
-
-<br><br>
-
-## Contatos
-
-<p align="left">
-<a href="https://www.linkedin.com/in/jreinaldosilva" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/reinaldosilva-2C2C2C?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+<a href="https://liberapay.com/mr-reinaldo" target="_blank">
+  <img src="https://img.shields.io/badge/Donate-Liberapay-f6c915.svg?style=flat-square&logo=liberapay" alt="Doe via Liberapay"/>
 </a>
-<a href="https://instagram.com/penguin.bash_" target="_blank">
- <img align="center" src="https://img.shields.io/badge/penguin.bash-2C2C2C?style=for-the-badge&logo=instagram" alt="instagram"/>
-</a>
-</p>
+
+
+###
+
+<h3 align="left">Linguagens e Ferramentas</h3>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" height="40" alt="vuetify logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" height="40" alt="vagrant logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" alt="filezilla logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="sqlalchemy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opensuse/opensuse-original-wordmark.svg" height="40" alt="opensuse logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" alt="putty logo"  />
+</div>
+
+###
+
+<h3 align="left">Estatística</h3>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-reinaldo&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=vue&hide_border=true&order=2" height="155" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=mr-reinaldo&locale=pt-br&mode=daily&theme=vue&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=mr-reinaldo&theme=flat&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/mr-reinaldo/count.svg?"  />
+</div>
+
+###
