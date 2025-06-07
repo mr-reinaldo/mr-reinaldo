@@ -14,20 +14,6 @@
 
 <p align="center">Sou graduado em Tecnologia em Redes de Computadores pelo Instituto Federal da Paraíba (IFPB), com conclusão em 2023. Desde cedo, desenvolvi uma paixão por tecnologia, que naturalmente se transformou em vocação na área da Tecnologia da Informação (TI). Mesmo após a formação acadêmica, mantenho um ritmo constante de evolução por meio de estudos autodidatas e projetos práticos.<br><br>Estou em busca de oportunidades que me permitam aplicar meus conhecimentos técnicos e minha habilidade em resolver problemas complexos com inteligência, segurança e criatividade.<br><br>🔭 Atualmente estou cursando Sistemas de Telecomunicações<br>🌱 Atualmente estou aprimorando meu conhecimentos em Python, Automação e FastAPI.<br>❓ Pergunte-me sobre qualquer coisa relacionada à Python e Redes de Computadores.</p>
 
-<a href="https://liberapay.com/mr-reinaldo" target="_blank">
-  <img src="https://img.shields.io/badge/Donate-Liberapay-f6c915.svg?style=flat-square&logo=liberapay" alt="Doe via Liberapay"/>
-</a>
-<a href="https://www.paypal.com/donate/?business=WDVFFH92J555N&no_recurring=0&item_name=Te+agrade%C3%A7o+pela+ajuda%21&currency_code=BRL" target="_blank">
-  <img src="https://img.shields.io/badge/Donate-PayPal-00457C.svg?style=flat-square&logo=paypal&logoColor=white" alt="Doe via PayPal"/>
-</a>
-<a href="https://www.linkedin.com/in/jreinaldosilva" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://www.instagram.com/penguin.bash_" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-
-
 ###
 
 <h3 align="left">Linguagens e Ferramentas</h3>
@@ -136,8 +122,17 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/mr-reinaldo/count.svg?"  />
-</div>
+<a href="https://liberapay.com/mr-reinaldo" target="_blank">
+  <img src="https://img.shields.io/badge/Donate-Liberapay-f6c915.svg?style=flat-square&logo=liberapay" alt="Doe via Liberapay"/>
+</a>
+<a href="https://www.paypal.com/donate/?business=WDVFFH92J555N&no_recurring=0&item_name=Te+agrade%C3%A7o+pela+ajuda%21&currency_code=BRL" target="_blank">
+  <img src="https://img.shields.io/badge/Donate-PayPal-00457C.svg?style=flat-square&logo=paypal&logoColor=white" alt="Doe via PayPal"/>
+</a>
+<a href="https://www.linkedin.com/in/jreinaldosilva" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://www.instagram.com/penguin.bash_" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
 
 ###
