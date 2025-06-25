@@ -125,9 +125,6 @@
 <a href="https://liberapay.com/mr-reinaldo" target="_blank">
   <img src="https://img.shields.io/badge/Donate-Liberapay-f6c915.svg?style=flat-square&logo=liberapay" alt="Doe via Liberapay"/>
 </a>
-<a href="https://www.paypal.com/donate/?business=WDVFFH92J555N&no_recurring=0&item_name=Te+agrade%C3%A7o+pela+ajuda%21&currency_code=BRL" target="_blank">
-  <img src="https://img.shields.io/badge/Donate-PayPal-00457C.svg?style=flat-square&logo=paypal&logoColor=white" alt="Doe via PayPal"/>
-</a>
 <a href="https://www.linkedin.com/in/jreinaldosilva" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
