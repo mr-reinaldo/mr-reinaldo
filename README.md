@@ -1,117 +1,98 @@
-<h2 align="center">Olá 👋, eu sou Reinaldo!</h2>
-
-###
-
-<br clear="both">
+<!-- markdownlint-disable MD033 -->
+<h1 align="center">Olá 👋, eu sou Reinaldo!</h1>
 
 <div align="center">
-  <img height="120" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2wxODNvMmJzeDhydWEybHM2NnltOHVtb3l0ZWo3c3ZwYWNlNGRnbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5dLoIhuX12Nl1MnQJ1/giphy.gif"  />
+  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2wxODNvMmJzeDhydWEybHM2NnltOHVtb3l0ZWo3c3ZwYWNlNGRnbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5dLoIhuX12Nl1MnQJ1/giphy.gif" alt="Greeting GIF" />
 </div>
 
-###
+<br>
 
-<br clear="both">
+<p align="center">
+  Sou graduado em <b>Tecnologia em Redes de Computadores</b> pelo IFPB (2023). <br>
+  Apaixonado por tecnologia, transformei minha curiosidade em vocação. <br>
+  Busco constantemente evoluir através de estudos e projetos práticos.
+</p>
 
-<p align="center">Sou graduado em Tecnologia em Redes de Computadores pelo Instituto Federal da Paraíba (IFPB), com conclusão em 2023. Desde cedo, desenvolvi uma paixão por tecnologia, que naturalmente se transformou em vocação na área da Tecnologia da Informação (TI). Mesmo após a formação acadêmica, mantenho um ritmo constante de evolução por meio de estudos autodidatas e projetos práticos.<br><br>Estou em busca de oportunidades que me permitam aplicar meus conhecimentos técnicos e minha habilidade em resolver problemas complexos com inteligência, segurança e criatividade.<br><br>🔭 Atualmente estou cursando Sistemas de Telecomunicações<br>🌱 Atualmente estou aprimorando meu conhecimentos em Python, Automação e FastAPI.<br>❓ Pergunte-me sobre qualquer coisa relacionada à Python e Redes de Computadores.</p>
-
-###
-
-<h3 align="left">Linguagens e Ferramentas</h3>
-
-###
-
-<br clear="both">
+<p align="center">
+  🔭 Atualmente cursando <b>Sistemas de Telecomunicações</b><br>
+  🌱 Aprimorando conhecimentos em <b>Python, Automação e FastAPI</b><br>
+  👯 Aberto para colaborar em projetos de <b>Backend e DevOps</b><br>
+  💬 Pergunte-me sobre <b>Python, Redes e Linux</b>
+</p>
 
 <div align="center">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python Logo" />
+  <a href="https://www.linkedin.com/in/jreinaldosilva" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <img width="12" />
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VSCode Logo" />
-  </a>
-  <img width="12" />
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="Bash Logo" />
-  </a>
-  <img width="12" />
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="30" alt="Docker Logo" />
-  </a>
-  <img width="12" />
-  <a href="https://vuetifyjs.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" height="30" alt="Vuetify Logo" />
-  </a>
-  <img width="12" />
-  <a href="https://developer.hashicorp.com/vagrant" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" height="30" alt="Vagrant Logo" />
-  </a>
-  <img width="12" />
-  <a href="https://filezilla-project.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="30" alt="FileZilla Logo" />
-  </a>
-  <img width="12" />
-  <a href="https://www.sqlalchemy.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="30" alt="SQLAlchemy Logo" />
-  </a>
-  <img width="12" />
-  <a href="https://getbootstrap.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="Bootstrap Logo" />
-  </a>
-  <img width="12" />
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="PyCharm Logo" />
-  </a>
-  <img width="12" />
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js Logo" />
-  </a>
-  <img width="12" />
-  <a href="https://www.opensuse.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opensuse/opensuse-original-wordmark.svg" height="30" alt="openSUSE Logo" />
-  </a>
-  <img width="12" />
-  <a href="https://grafana.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" alt="Grafana Logo" />
-  </a>
-  <img width="12" />
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git Logo" />
-  </a>
-  <img width="12" />
-  <a href="https://www.microsoft.com/windows/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="Windows Logo" />
-  </a>
-  <img width="12" />
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="Express.js Logo" />
-  </a>
-  <img width="12" />
-  <a href="https://www.npmjs.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="NPM Logo" />
-  </a>
-  <img width="12" />
-  <a href="https://www.chiark.greenend.org.uk/~sgtatham/putty/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="30" alt="PuTTY Logo" />
-  </a>
-  <img width="12" />
-  <a href="https://flask.palletsprojects.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/flask/000000" height="30" alt="Flask Logo" />
-  </a>
-  <img width="12" />
-  <a href="https://www.prisma.io/" target="_blank">
-    <img src="https://cdn.simpleicons.org/prisma/2D3748" height="30" alt="Prisma Logo" />
+  <a href="https://www.instagram.com/penguin.bash_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </div>
 
-###
-<br clear="both">
+<hr>
 
-<a href="https://www.linkedin.com/in/jreinaldosilva" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://www.instagram.com/penguin.bash_" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
+### 🛠️ Tecnologias e Ferramentas
 
-###
+<div align="center">
+
+#### Linguagens
+
+  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash" />
+  </div>
+
+#### Frameworks & Libraries
+
+  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" />
+    <img src="https://cdn.simpleicons.org/flask/000000" height="40" alt="Flask" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" height="40" alt="Vuetify" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
+    <img src="https://cdn.simpleicons.org/prisma/2D3748" height="40" alt="Prisma" />
+  </div>
+
+#### DevOps, Banco de Dados & Tools
+
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="SQLAlchemy" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="Android" />
+  </div>
+</div>
+
+<hr>
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=mr-reinaldo&show_icons=true&theme=dracula" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mr-reinaldo&layout=compact&theme=dracula" alt="Top Languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=mr-reinaldo&theme=dracula" alt="GitHub Streak" />
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://wakatime.com/@c0c88189-f811-4b1d-b3e7-f757869a0228">
+    <img src="https://wakatime.com/badge/user/c0c88189-f811-4b1d-b3e7-f757869a0228.svg" alt="WakaTime Badge" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mr-reinaldo&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
