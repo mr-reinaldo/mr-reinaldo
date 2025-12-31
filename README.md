@@ -83,4 +83,77 @@
 ### 📈 WakaTime Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-41%20hrs%208%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 10.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 30 Contributions in the Year 2025
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 20 Public Repositories 
+ > 
+> 🔑 1 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                28 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+🌆 Daytime                75 commits          ██████████░░░░░░░░░░░░░░░   39.89 % 
+🌃 Evening                67 commits          █████████░░░░░░░░░░░░░░░░   35.64 % 
+🌙 Night                  18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   32 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
+Tuesday                  28 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+Wednesday                29 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
+Thursday                 27 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
+Friday                   12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+Saturday                 24 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+Sunday                   36 commits          █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Recife
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   7 repos             ████████████░░░░░░░░░░░░░   46.67 % 
+Shell                    3 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+JavaScript               3 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Vue                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+HCL                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/mr-reinaldo/mr-reinaldo/main/assets/bar_graph.png)
+
+
+ Last Updated on 31/12/2025 21:23:16 UTC
 <!--END_SECTION:waka-->
