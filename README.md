@@ -95,11 +95,3 @@ No Activity Tracked This Week
 
  Last Updated on 31/12/2025 04:51:29 UTC
 <!--END_SECTION:waka-->
-
-<br>
-
-<div align="center">
-  <a href="https://wakatime.com/@c0c88189-f811-4b1d-b3e7-f757869a0228">
-    <img src="https://wakatime.com/badge/user/c0c88189-f811-4b1d-b3e7-f757869a0228.svg" alt="WakaTime Badge" />
-  </a>
-</div>
