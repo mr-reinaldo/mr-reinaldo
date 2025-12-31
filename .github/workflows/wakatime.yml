@@ -3,7 +3,7 @@ name: WakaTime Stats
 on:
   schedule:
     # Runs at 12am UTC every day
-    - cron: "0 0 * * *"
+    - cron: "30 18 * * *"
   workflow_dispatch:
 
 permissions:
