@@ -83,14 +83,4 @@
 ### 📈 WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-41%20hrs-blue)
-
-📊 **This Week I Spent My Time On**
-
-```text
-💬 Programming Languages:
-No Activity Tracked This Week
-```
-
- Last Updated on 31/12/2025 18:49:23 UTC
 <!--END_SECTION:waka-->
