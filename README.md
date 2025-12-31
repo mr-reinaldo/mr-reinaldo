@@ -57,31 +57,33 @@
 
 #### DevOps, Banco de Dados & Tools
 
-  <div style="display: flex; justify-content: center; gap: 10px;">
+  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="SQLAlchemy" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="Android" />
   </div>
+
+#### Sistemas Operacionais
+
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" height="40" alt="Windows" />
+    <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="Ubuntu" />
+    <img src="https://cdn.simpleicons.org/fedora/51A2DA" height="40" alt="Fedora" />
+    <img src="https://cdn.simpleicons.org/linuxmint/87CF3E" height="40" alt="Linux Mint" />
+    <img src="https://cdn.simpleicons.org/opensuse/73BA25" height="40" alt="OpenSUSE" />
+  </div>
+
 </div>
 
 <hr>
 
-### 📈 GitHub Stats
+### 📈 WakaTime Stats
 
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=mr-reinaldo&show_icons=true&theme=dracula" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mr-reinaldo&layout=compact&theme=dracula" alt="Top Languages" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=mr-reinaldo&theme=dracula" alt="GitHub Streak" />
-</div>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <br>
 
@@ -89,10 +91,4 @@
   <a href="https://wakatime.com/@c0c88189-f811-4b1d-b3e7-f757869a0228">
     <img src="https://wakatime.com/badge/user/c0c88189-f811-4b1d-b3e7-f757869a0228.svg" alt="WakaTime Badge" />
   </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mr-reinaldo&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
