@@ -83,7 +83,7 @@
 ### 📈 WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-64%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-66%20hrs%207%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -126,16 +126,19 @@ Sunday                   36 commits          █████░░░░░░�
 🕑︎ Time Zone: America/Recife
 
 💬 Programming Languages: 
-JSON                     28 mins             █████████████████████████   100.00 % 
+Markdown                 52 mins             ████████████████░░░░░░░░░   64.86 % 
+JSON                     28 mins             █████████░░░░░░░░░░░░░░░░   35.10 % 
+TeX                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-VS Code                  28 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 20 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          28 mins             █████████████████████████   100.00 % 
+apresentação             52 mins             ████████████████░░░░░░░░░   64.90 % 
+Unknown Project          28 mins             █████████░░░░░░░░░░░░░░░░   35.10 % 
 
 💻 Operating System: 
-Linux                    28 mins             █████████████████████████   100.00 % 
+Linux                    1 hr 20 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -155,5 +158,5 @@ HCL                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mr-reinaldo/mr-reinaldo/main/assets/bar_graph.png)
 
 
- Last Updated on 20/01/2026 19:38:56 UTC
+ Last Updated on 21/01/2026 19:03:54 UTC
 <!--END_SECTION:waka-->
