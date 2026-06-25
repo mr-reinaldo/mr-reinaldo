@@ -126,16 +126,22 @@ Sunday                   36 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/Recife
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   52 mins             ███████████░░░░░░░░░░░░░░   42.34 % 
+Text                     25 mins             █████░░░░░░░░░░░░░░░░░░░░   20.84 % 
+CSV                      24 mins             █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
+Bash                     16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Antigravity IDE          1 hr 20 mins        ████████████████░░░░░░░░░   65.53 % 
+VS Code                  42 mins             █████████░░░░░░░░░░░░░░░░   34.47 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+projeto_pratic           2 hrs 2 mins        █████████████████████████   100.00 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    2 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -155,5 +161,5 @@ HCL                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mr-reinaldo/mr-reinaldo/main/assets/bar_graph.png)
 
 
- Last Updated on 24/06/2026 20:15:53 UTC
+ Last Updated on 25/06/2026 20:28:15 UTC
 <!--END_SECTION:waka-->
