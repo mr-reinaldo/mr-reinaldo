@@ -126,16 +126,21 @@ Sunday                   36 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/Recife
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 39 mins        ███████████████░░░░░░░░░░   61.96 % 
+HTML                     45 mins             ███████░░░░░░░░░░░░░░░░░░   28.36 % 
+Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+TOML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 6 mins        ████████████████████░░░░░   79.01 % 
+Antigravity IDE          33 mins             █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+nplmw-v2                 2 hrs 40 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    2 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -155,5 +160,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mr-reinaldo/mr-reinaldo/main/assets/bar_graph.png)
 
 
- Last Updated on 21/07/2026 19:58:44 UTC
+ Last Updated on 22/07/2026 19:51:20 UTC
 <!--END_SECTION:waka-->
