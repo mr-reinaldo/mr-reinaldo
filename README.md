@@ -83,6 +83,8 @@
 ### 📈 WakaTime Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-107%20hrs%2034%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -124,21 +126,23 @@ Sunday                   36 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/Recife
 
 💬 Programming Languages: 
-Python                   1 hr 39 mins        ███████████████░░░░░░░░░░   61.96 % 
-HTML                     45 mins             ███████░░░░░░░░░░░░░░░░░░   28.36 % 
-Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
-TOML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+Python                   5 hrs 15 mins       ██████████████████░░░░░░░   73.50 % 
+HTML                     45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
+TOML                     41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
+Other                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+Git Config               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 6 mins        ████████████████████░░░░░   79.01 % 
-Antigravity IDE          33 mins             █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
+VS Code                  6 hrs 35 mins       ███████████████████████░░   92.16 % 
+Antigravity IDE          33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
 
 🐱‍💻 Projects: 
-nplmw-v2                 2 hrs 40 mins       █████████████████████████   100.00 % 
+backend                  4 hrs 25 mins       ███████████████░░░░░░░░░░   61.80 % 
+nplmw-v2                 2 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   37.37 % 
+app                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 
 💻 Operating System: 
-Linux                    2 hrs 40 mins       █████████████████████████   100.00 % 
+Linux                    7 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -158,5 +162,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mr-reinaldo/mr-reinaldo/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 19:53:05 UTC
+ Last Updated on 25/07/2026 19:40:40 UTC
 <!--END_SECTION:waka-->
