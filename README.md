@@ -83,7 +83,9 @@
 ### 📈 WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-114%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-112%20hrs%2048%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-42%20hrs%2035%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -145,6 +147,29 @@ app                      3 mins              ░░░░░░░░░░░�
 Linux                    9 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 1 hr 50 mins (20.31%)
+
+✍️ 421 lines written by AI, 2,786 lines written by hand (13.13% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 5 AI Sessions, 11 AI Prompts
+
+Github-Copilot           374 lines           ████████████████████░░░░░   80.95 % 
+Opus                     88 lines            █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 13.13% of written lines came from AI
+📄 Detailed Prompter — average 507 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 87.54% of changed lines were hand-edited
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -162,5 +187,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mr-reinaldo/mr-reinaldo/main/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2026 19:42:09 UTC
+ Last Updated on 27/07/2026 20:01:38 UTC
 <!--END_SECTION:waka-->
