@@ -83,10 +83,6 @@
 ### 📈 WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-112%20hrs%2048%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-42%20hrs%2035%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -128,46 +124,47 @@ Sunday                   36 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/Recife
 
 💬 Programming Languages: 
-Python                   7 hrs 11 mins       ████████████████████░░░░░   79.06 % 
-HTML                     45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
-TOML                     42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
-Other                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
-Git Config               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+Python                   8 hrs 45 mins       ██████████████████░░░░░░░   70.20 % 
+TOML                     1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+Markdown                 52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+HTML                     45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+Git Config               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 58 mins       ██████████████████████░░░   87.58 % 
-Antigravity IDE          1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+VS Code                  8 hrs 31 mins       █████████████████░░░░░░░░   68.34 % 
+Antigravity IDE          3 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   31.66 % 
 
 🐱‍💻 Projects: 
-backend                  6 hrs 22 mins       ██████████████████░░░░░░░   70.00 % 
-nplmw-v2                 2 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   29.35 % 
-app                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+backend                  9 hrs 45 mins       ████████████████████░░░░░   78.12 % 
+nplmw-v2                 2 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   21.41 % 
+app                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 
 💻 Operating System: 
-Linux                    9 hrs 6 mins        █████████████████████████   100.00 % 
+Linux                    12 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 50 mins (20.31%)
+⏱ AI Coding Time: 4 hrs 38 mins (37.23%)
 
-✍️ 421 lines written by AI, 2,786 lines written by hand (13.13% AI-written)
+✍️ 564 lines written by AI, 2,978 lines written by hand (15.92% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 11 AI Prompts
+🧠 6 AI Sessions, 48 AI Prompts
 
-Github-Copilot           374 lines           ████████████████████░░░░░   80.95 % 
-Opus                     88 lines            █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+Github-Copilot           374 lines           ███████████████░░░░░░░░░░   59.84 % 
+Gemini                   133 lines           █████░░░░░░░░░░░░░░░░░░░░   21.28 % 
+Opus                     118 lines           █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 13.13% of written lines came from AI
-📄 Detailed Prompter — average 507 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 87.54% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 15.92% of written lines came from AI
+📝 Concise Prompter — average 264 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🔍 Hands-On Reviewer — 85.25% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -187,5 +184,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mr-reinaldo/mr-reinaldo/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 20:01:38 UTC
+ Last Updated on 28/07/2026 19:58:16 UTC
 <!--END_SECTION:waka-->
