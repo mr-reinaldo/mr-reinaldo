@@ -83,9 +83,9 @@
 ### 📈 WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-125%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-125%20hrs%2034%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-54%20hrs%2026%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-54%20hrs%2036%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -128,48 +128,48 @@ Sunday                   36 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/Recife
 
 💬 Programming Languages: 
-Python                   8 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   41.33 % 
-Vue                      5 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   30.49 % 
-TOML                     1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
-Docker                   1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
-Markdown                 1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+Python                   11 hrs 23 mins      ██████████░░░░░░░░░░░░░░░   41.10 % 
+Vue                      8 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   30.15 % 
+Markdown                 2 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
+TOML                     1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+Docker                   1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
 
 🔥 Editors: 
-Antigravity IDE          13 hrs 4 mins       █████████████████░░░░░░░░   67.08 % 
-VS Code                  6 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   32.92 % 
+Antigravity IDE          21 hrs 17 mins      ███████████████████░░░░░░   76.83 % 
+VS Code                  6 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   23.17 % 
 
 🐱‍💻 Projects: 
-backend                  14 hrs 22 mins      ██████████████████░░░░░░░   73.69 % 
-frontend                 3 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-nplmw-v2                 1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
-Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
-app                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+backend                  14 hrs 57 mins      ██████████████░░░░░░░░░░░   54.01 % 
+nplmw-v2                 8 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   30.73 % 
+frontend                 4 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+Unknown Project          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+app                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 💻 Operating System: 
-Linux                    19 hrs 29 mins      █████████████████████████   100.00 % 
+Linux                    27 hrs 42 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 50 mins (65.84%)
+⏱ AI Coding Time: 20 hrs 36 mins (74.4%)
 
-✍️ 968 lines written by AI, 3,670 lines written by hand (20.87% AI-written)
+✍️ 1,397 lines written by AI, 5,131 lines written by hand (21.4% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 195 AI Prompts
+🧠 10 AI Sessions, 366 AI Prompts
 
-Gemini                   956 lines           ███████████████████░░░░░░   75.22 % 
-Opus                     315 lines           ██████░░░░░░░░░░░░░░░░░░░   24.78 % 
+Gemini                   1,185 lines         ███████████████░░░░░░░░░░   61.11 % 
+Opus                     754 lines           ██████████░░░░░░░░░░░░░░░   38.89 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 20.87% of written lines came from AI
-📝 Concise Prompter — average 372 characters per prompt
-🔁 Iterative Prompter — average 24 prompts per session
-🔍 Hands-On Reviewer — 76.83% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 21.4% of written lines came from AI
+📝 Concise Prompter — average 451 characters per prompt
+🔁 Iterative Prompter — average 37 prompts per session
+🔍 Hands-On Reviewer — 74.68% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -189,5 +189,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mr-reinaldo/mr-reinaldo/main/assets/bar_graph.png)
 
 
- Last Updated on 30/07/2026 19:59:26 UTC
+ Last Updated on 31/07/2026 19:59:59 UTC
 <!--END_SECTION:waka-->
