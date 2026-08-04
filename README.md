@@ -128,48 +128,47 @@ Sunday                   36 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/Recife
 
 💬 Programming Languages: 
-Vue                      9 hrs 38 mins       ██████████░░░░░░░░░░░░░░░   40.57 % 
-Python                   6 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   27.56 % 
-Markdown                 2 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-Docker                   1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
-TypeScript               59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+Vue                      9 hrs 38 mins       ███████████░░░░░░░░░░░░░░   44.63 % 
+Python                   5 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   27.09 % 
+Markdown                 1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
+Docker                   1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
+TypeScript               59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
 
 🔥 Editors: 
-Antigravity IDE          23 hrs 13 mins      ████████████████████████░   97.65 % 
-VS Code                  33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+Antigravity IDE          21 hrs 36 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-nplmw-v2                 10 hrs 58 mins      ████████████░░░░░░░░░░░░░   46.13 % 
-backend                  8 hrs 35 mins       █████████░░░░░░░░░░░░░░░░   36.14 % 
-frontend                 4 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
-Unknown Project          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
-docker                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+nplmw-v2                 10 hrs 58 mins      █████████████░░░░░░░░░░░░   50.75 % 
+backend                  5 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   24.11 % 
+frontend                 4 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
+pointmin                 1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+Unknown Project          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 
 💻 Operating System: 
-Linux                    23 hrs 46 mins      █████████████████████████   100.00 % 
+Linux                    21 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 22 hrs 14 mins (93.53%)
+⏱ AI Coding Time: 20 hrs 32 mins (95.03%)
 
-✍️ 1,418 lines written by AI, 2,803 lines written by hand (33.59% AI-written)
+✍️ 1,327 lines written by AI, 3,148 lines written by hand (29.65% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 397 AI Prompts
+🧠 8 AI Sessions, 373 AI Prompts
 
-Gemini                   1,445 lines         █████████████████░░░░░░░░   68.45 % 
-Opus                     666 lines           ████████░░░░░░░░░░░░░░░░░   31.55 % 
+Gemini                   1,335 lines         █████████████████░░░░░░░░   66.65 % 
+Opus                     668 lines           ████████░░░░░░░░░░░░░░░░░   33.35 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 33.59% of written lines came from AI
-📝 Concise Prompter — average 437 characters per prompt
-🔁 Iterative Prompter — average 50 prompts per session
-🔍 Hands-On Reviewer — 58.96% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 29.65% of written lines came from AI
+📝 Concise Prompter — average 470 characters per prompt
+🔁 Iterative Prompter — average 47 prompts per session
+🔍 Hands-On Reviewer — 61.57% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -189,5 +188,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mr-reinaldo/mr-reinaldo/main/assets/bar_graph.png)
 
 
- Last Updated on 02/08/2026 19:41:13 UTC
+ Last Updated on 04/08/2026 20:06:33 UTC
 <!--END_SECTION:waka-->
