@@ -83,9 +83,9 @@
 ### 📈 WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-136%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-137%20hrs%2023%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-64%20hrs%2051%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-65%20hrs%2059%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -128,47 +128,47 @@ Sunday                   36 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/Recife
 
 💬 Programming Languages: 
-Vue                      9 hrs 38 mins       ███████████░░░░░░░░░░░░░░   44.63 % 
-Python                   5 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   27.09 % 
-Markdown                 1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
-Docker                   1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
-TypeScript               59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+Python                   5 hrs 4 mins        ██████████░░░░░░░░░░░░░░░   40.97 % 
+Vue                      3 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   31.95 % 
+Markdown                 1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
+TypeScript               36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+CSS                      28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
 
 🔥 Editors: 
-Antigravity IDE          21 hrs 36 mins      █████████████████████████   100.00 % 
+Antigravity IDE          12 hrs 22 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-nplmw-v2                 10 hrs 58 mins      █████████████░░░░░░░░░░░░   50.75 % 
-backend                  5 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   24.11 % 
-frontend                 4 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
-pointmin                 1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
-Unknown Project          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+nplmw-v2                 9 hrs 17 mins       ███████████████████░░░░░░   75.13 % 
+pointmin                 1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+frontend                 50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+backend                  35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
+Unknown Project          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
 
 💻 Operating System: 
-Linux                    21 hrs 36 mins      █████████████████████████   100.00 % 
+Linux                    12 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 hrs 32 mins (95.03%)
+⏱ AI Coding Time: 11 hrs 47 mins (95.33%)
 
-✍️ 1,327 lines written by AI, 3,148 lines written by hand (29.65% AI-written)
+✍️ 709 lines written by AI, 1,998 lines written by hand (26.19% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 373 AI Prompts
+🧠 6 AI Sessions, 233 AI Prompts
 
-Gemini                   1,335 lines         █████████████████░░░░░░░░   66.65 % 
-Opus                     668 lines           ████████░░░░░░░░░░░░░░░░░   33.35 % 
+Opus                     612 lines           █████████████░░░░░░░░░░░░   51.17 % 
+Gemini                   584 lines           ████████████░░░░░░░░░░░░░   48.83 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 29.65% of written lines came from AI
-📝 Concise Prompter — average 470 characters per prompt
-🔁 Iterative Prompter — average 47 prompts per session
-🔍 Hands-On Reviewer — 61.57% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 26.19% of written lines came from AI
+📝 Concise Prompter — average 486 characters per prompt
+🔁 Iterative Prompter — average 39 prompts per session
+🔍 Hands-On Reviewer — 63.06% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -188,5 +188,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mr-reinaldo/mr-reinaldo/main/assets/bar_graph.png)
 
 
- Last Updated on 04/08/2026 20:06:33 UTC
+ Last Updated on 05/08/2026 20:02:21 UTC
 <!--END_SECTION:waka-->
