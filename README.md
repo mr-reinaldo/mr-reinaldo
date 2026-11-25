@@ -1,93 +1,53 @@
 <!-- markdownlint-disable MD033 -->
-<h1 align="center">Olá 👋, eu sou Reinaldo!</h1>
-
 <div align="center">
-  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2wxODNvMmJzeDhydWEybHM2NnltOHVtb3l0ZWo3c3ZwYWNlNGRnbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5dLoIhuX12Nl1MnQJ1/giphy.gif" alt="Greeting GIF" />
-</div>
 
-<br>
+# Olá, eu sou o Reinaldo 👋
 
-<p align="center">
-  Sou graduado em <b>Tecnologia em Redes de Computadores</b> pelo IFPB (2023). <br>
-  Apaixonado por tecnologia, transformei minha curiosidade em vocação. <br>
-  Busco constantemente evoluir através de estudos e projetos práticos.
-</p>
+**Redes de Computadores • Sistemas de Telecomunicações • Python, Backend & DevOps**
 
-<p align="center">
-  🔭 Atualmente cursando <b>Sistemas de Telecomunicações</b><br>
-  🌱 Aprimorando conhecimentos em <b>Python, Automação e FastAPI</b><br>
-  👯 Aberto para colaborar em projetos de <b>Backend e DevOps</b><br>
-  💬 Pergunte-me sobre <b>Python, Redes e Linux</b>
-</p>
-
-<div align="center">
+<p>
   <a href="https://www.linkedin.com/in/jreinaldosilva" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/penguin.bash_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-</div>
-
-<hr>
-
-### 🛠️ Tecnologias e Ferramentas
-
-<div align="center">
-
-#### Linguagens
-
-  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash" />
-  </div>
-
-#### Frameworks & Libraries
-
-  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" />
-    <img src="https://cdn.simpleicons.org/flask/000000" height="40" alt="Flask" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" height="40" alt="Vuetify" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
-    <img src="https://cdn.simpleicons.org/prisma/2D3748" height="40" alt="Prisma" />
-  </div>
-
-#### DevOps, Banco de Dados & Tools
-
-  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="SQLAlchemy" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="Android" />
-  </div>
-
-#### Sistemas Operacionais
-
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" height="40" alt="Windows" />
-    <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="Ubuntu" />
-    <img src="https://cdn.simpleicons.org/fedora/51A2DA" height="40" alt="Fedora" />
-    <img src="https://cdn.simpleicons.org/linuxmint/87CF3E" height="40" alt="Linux Mint" />
-    <img src="https://cdn.simpleicons.org/opensuse/73BA25" height="40" alt="OpenSUSE" />
-  </div>
+</p>
 
 </div>
 
-<hr>
+---
 
-### 📈 WakaTime Stats
+## 👨‍💻 Sobre mim
+
+Sou graduado em **Tecnologia em Redes de Computadores** pelo **IFPB** (2023) e atualmente curso **Sistemas de Telecomunicações**. Tenho foco em desenvolvimento **Backend**, **Automação** e **DevOps**, conectando infraestrutura de redes e Linux à construção de APIs e aplicações práticas.
+
+- 🎓 **Formação:** Tecnologia em Redes de Computadores (IFPB, 2023) • Cursando Sistemas de Telecomunicações
+- 🚀 **Foco atual:** Python, FastAPI, Automação e Docker
+- 🤝 **Aberto a colaborações:** Projetos de Backend e DevOps
+- 💬 **Assuntos favoritos:** Python, Redes de Computadores e Linux
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+| Categoria | Stack |
+| :--- | :--- |
+| **Linguagens** | [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript) [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/) |
+| **Frameworks & Bibliotecas** | [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/) [![Flask](https://img.shields.io/badge/Flask-111111?style=flat-square&logo=flask&logoColor=white)](https://flask.palletsprojects.com/) [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org/) [![Express](https://img.shields.io/badge/Express-222222?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/) [![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white)](https://vuetifyjs.com/) [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)](https://getbootstrap.com/) [![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)](https://www.prisma.io/) |
+| **DevOps, Dados & Tools** | [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/) [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/) [![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)](https://www.sqlalchemy.org/) [![VS Code](https://custom-icon-badges.demolab.com/badge/VS%20Code-007ACC?style=flat-square&logo=vsc&logoColor=white)](https://code.visualstudio.com/) [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)](https://www.android.com/) |
+| **Sistemas Operacionais** | [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)](https://ubuntu.com/) [![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white)](https://fedoraproject.org/) [![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=flat-square&logo=linuxmint&logoColor=white)](https://linuxmint.com/) [![openSUSE](https://img.shields.io/badge/openSUSE-73BA25?style=flat-square&logo=opensuse&logoColor=white)](https://www.opensuse.org/) [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D4?style=flat-square&logo=windows11&logoColor=white)](https://www.microsoft.com/windows) |
+
+---
+
+## 📊 Métricas de Desenvolvimento
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-146%20hrs%2025%20mins-blue?style=flat)
+![Code Time](https://img.shields.io/badge/Code%20Time-146%20hrs%2025%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-86%20hrs%2054%20mins-blue?style=flat)
+![AI Code Time](https://img.shields.io/badge/AI%20Code%20Time-86%20hrs%2054%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](https://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
