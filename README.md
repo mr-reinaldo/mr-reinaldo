@@ -83,9 +83,9 @@
 ### 📈 WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-137%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-146%20hrs%2025%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-66%20hrs%2013%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-86%20hrs%2054%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -128,22 +128,53 @@ Sunday                   36 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/Recife
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    8 hrs 38 mins       █████████████░░░░░░░░░░░░   51.33 % 
+TypeScript               3 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
+JSON                     2 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Markdown                 1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+JavaScript               28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Antigravity CLI          6 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   37.80 % 
+Antigravity Desktop      5 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   33.53 % 
+VS Code                  2 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
+Copilot CLI              1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+Copilot                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+micro-erp                8 hrs 18 mins       ████████████░░░░░░░░░░░░░   49.39 % 
+Downloads                6 hrs 4 mins        █████████░░░░░░░░░░░░░░░░   36.12 % 
+Unknown Project          2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
+joser                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+Área de Trabalho         1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  16 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 16 hrs 14 mins (96.44%)
+
+✍️ 186 lines written by AI, 59 lines written by hand (75.92% AI-written)
+
+🔤 2,305,796 Input Tokens, 189,961 Output Tokens
+
+💵 $9.26 Estimated AI Cost This Week
+
+🧠 11 AI Sessions, 196 AI Prompts
+
+GPT                      156 lines           ████████████████████░░░░░   81.25 % 
+Code                     36 lines            █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 75.92% of written lines came from AI
+📄 Detailed Prompter — average 526 characters per prompt
+🔁 Iterative Prompter — average 18 prompts per session
+🚀 High AI Trust — 27.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -163,5 +194,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mr-reinaldo/mr-reinaldo/main/assets/bar_graph.png)
 
 
- Last Updated on 31/10/2026 21:46:22 UTC
+ Last Updated on 25/11/2026 18:59:38 UTC
 <!--END_SECTION:waka-->
